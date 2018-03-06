@@ -1,9 +1,22 @@
-# Magisk Module Template
+# Tissot Softkeys Enabler
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+Magisk module for enabling soft navigation keys and disabling the capacitive buttons on tissot (Xiaomi Mi A1)
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+## What it does
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+* Enables softkeys (on-screen back, home, and multitasking buttons)
+* Disables hardware buttons
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+## What it doesn't do
+
+* Disable capacitive buttons' backlights (why?)
+
+## Disclaimer
+
+Specifically built for and tested exclusively on the unofficial LineageOS 15.1 build for tissot.
+
+No guarantee that it works on other Oreo (or Nougat) builds.
+
+## Why didn't you also disable the capacitive buttons' backlights?
+
+There's a built-in setting to disable the backlights in LineageOS 15.1 at `Settings > System > Buttons > Backlight`.

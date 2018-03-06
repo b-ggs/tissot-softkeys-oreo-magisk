@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=tissot-softkeys-oreo-magisk
+name=Tissot Softkeys Enabler
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-minMagisk=1500
+author=b_ggs
+description=Magisk module for enabling soft navigation keys and disabling the capacitive buttons on tissot (Xiaomi Mi A1)
+minMagisk=1600
