@@ -9,7 +9,7 @@ Magisk module for enabling soft navigation keys and disabling the capacitive but
 
 ## What it doesn't do
 
-* Disable capacitive buttons' backlights (why?)
+* Disable capacitive buttons' backlights ([why?](#why-didnt-you-also-disable-the-capacitive-buttons-backlights))
 
 ## Disclaimer
 
